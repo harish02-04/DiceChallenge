@@ -1,4 +1,4 @@
-# Doomed Dice Challenge
+# 🎲Doomed Dice Challenge
 
 ## Overview
 
